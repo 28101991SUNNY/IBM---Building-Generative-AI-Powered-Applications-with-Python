@@ -25,3 +25,5 @@ Implement an image captioning tool using the BLIP model from Hugging Face's Tran
 - Use Gradio to provide a user-friendly interface for your image captioning application
 
 - Adapt the tool for real-world business scenarios, demonstrating its practical applications
+
+https://github.com/28101991SUNNY/Image-Captioning-App-Using-Blip-/blob/main/Screenshot%202024-07-13%20at%2010.19.20%E2%80%AFAM.png
